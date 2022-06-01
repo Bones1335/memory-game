@@ -1,0 +1,14 @@
+HEADER
+    -Title
+    -Instructions
+    -Scoreboard
+    -Best score
+
+Game
+    -12 Cards
+        *Image
+        *Text(?)
+    -Randomize order on Mount
+    -Randomize order after every chosen Image
+    -Hold each chosen image in memory
+    -End game upon chosing the same image or after having chosen all images correctly
