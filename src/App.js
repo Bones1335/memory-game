@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "./components/header/Header";
-import Game from "./components/game/Game";
+import Header from "./components/Header";
+import Game from "./components/Game";
 
 function App() {
   return (
